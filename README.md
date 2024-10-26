@@ -10,6 +10,9 @@ This project provides a form submission API with the following functionalities:
 
 ```bash
 git clone https://github.com/Kislaykonvict/assignment.git
+```
+
+```bash
 cd assignment
 ```
 
